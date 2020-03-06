@@ -1,0 +1,25 @@
+#card_container{
+    padding:10px 20px 10px 20px;
+    width: 200px;
+}
+.ant-card-cover{
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+ }
+.card_image{
+    width: 150px;
+    margin: auto;
+}
+.ant-card-meta-title{
+    font-size: large;
+    font-weight: bolder;
+}
+
+.ant-card-meta-description{
+
+    font-size: medium;
+    font-weight: bold;
+    color: rgb(57, 59, 58);
+}
+

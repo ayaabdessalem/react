@@ -1,0 +1,21 @@
+.ant-layout-header{
+  min-height: 150px;
+}
+.cards_row{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items:center;
+}
+.card_col {
+  width: 220px;
+  margin: 30px;
+}
+.site-content-background{
+  min-width: 1000px;
+  margin-left: 10px;
+  padding: 30px;
+  
+}
+
+
